@@ -3,6 +3,7 @@ epic_tragedies = {
           :patriarch => {name:"Lord Montague",
                          age:"53"}
 }
-          :matriach=> {name:
+          :matriach=> {name: "Lady Montague"
+                       age: 64
 
           }
