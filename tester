@@ -1,7 +1,8 @@
 epic_tragedies = {
           :montigue => {
-          :patriarch => {name:, age: , status}
+          :patriarch => {name:,
+                         age:}
 }
           :matriach=> {
-        
+
           }
